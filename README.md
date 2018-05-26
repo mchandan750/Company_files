@@ -1,2 +1,2 @@
 # Company_files
-Essentials needed further
+Essential files to be needed further.
