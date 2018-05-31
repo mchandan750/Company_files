@@ -1,0 +1,8 @@
+node{
+   stage('SCM Checkout'){
+     git 'https://github.com/mchandan750/Company_files'
+   }
+     stage('Compile stage'){
+     sh'mvn package'
+     }
+   }
